@@ -1,0 +1,9 @@
+[submodule "KeepIt"]
+	path = KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "quickstart/themes/pulp"]
+	path = quickstart/themes/pulp
+	url = https://github.com/koirand/pulp.git
